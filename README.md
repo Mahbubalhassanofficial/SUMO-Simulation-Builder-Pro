@@ -1,6 +1,6 @@
 # 🚦 SUMO Simulation Builder Pro
 
-**Author:** Professor Mahbub  
+**Author:**  Mahbub  
 **Institution:** Chulalongkorn University  
 **Year:** 2025  
 
