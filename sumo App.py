@@ -1,5 +1,5 @@
 # SUMO Simulation Builder Pro — Streamlit App (Complete)
-# Author: Professor Mahbub — Chulalongkorn University
+# Author: Mahbub Hassan — Chulalongkorn University
 # All-in-one SUMO project builder with left/right-hand driving, rich parameter coverage,
 # XML generation, project ZIP export, and basic analytics for outputs.
 
@@ -19,7 +19,7 @@ from xml.dom import minidom
 # =============================
 APP_TITLE = "SUMO Simulation Builder Pro"
 APP_TAGLINE = "Research-grade SUMO scenario designer with global driving modes"
-BRAND_OWNER = "Professor Mahbub"
+BRAND_OWNER = "Mahbub Hassan"
 INSTITUTION = "Chulalongkorn University"
 
 PRIMARY = "#E61E6E"   # CU pink/magenta
@@ -534,3 +534,4 @@ st.markdown(
     f"<div class='muted'>© {datetime.now().year} {BRAND_OWNER} • {INSTITUTION} • {APP_TITLE}</div>",
     unsafe_allow_html=True,
 )
+
